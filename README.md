@@ -63,23 +63,7 @@ sentiment-analysis/
 
 MIT License
 
-## Author
 
-Your Name
 ```
 
-## 5. Deployment Steps
 
-### Step 1: Organize Your Files
-
-Make sure your directory structure looks like this:
-```
-sentiment-analysis/
-├── app2.py
-├── requirements.txt
-├── .gitignore
-├── README.md
-└── models/
-    ├── sentiment_model.keras
-    ├── tokenizer.pkl
-    └── config.pkl
