@@ -59,11 +59,5 @@ sentiment-analysis/
 - Plotly 5.18.0
 - Python 3.9+
 
-## License
-
-MIT License
-
-
-```
 
 
